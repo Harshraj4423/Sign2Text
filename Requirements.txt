@@ -1,0 +1,9 @@
+numpy 
+opencv-python
+scipy
+pandas
+tensorflow  
+keras 
+pycocotools 
+lvis
+TF-models-official
