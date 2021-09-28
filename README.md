@@ -1,1 +1,1 @@
-This Project Sign2text Lang is Created 
+This Project Sign2text Language is Created
