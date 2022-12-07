@@ -5,7 +5,9 @@ SSD is a popular algorithm in object detection. It’s generally faster than Fas
 
 ### Output of the Model
 
+####         For A in American Sign Language
 <p align="center"><img src="work-DIR/A-L.png"\></p>
+####         For B in American Sign Language
 <p align="center"><img src="work-DIR/B-L.png"\></p>
 
 
