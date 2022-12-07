@@ -6,11 +6,12 @@ SSD is a popular algorithm in object detection. It’s generally faster than Fas
 
 
 
-#REFERENCES
-1. https://tensorflow-object-detection-apitutorial.readthedocs.io/en/latest/
-2. https://www.tensorflow.org/lite/examples/object_detection/overview
-3. https://towardsdatascience.com/custom-object-detectionusing-tensorflow-from-scratch-e61da2e10087
-4. https://medium.com/@techmayank2000/object-detectionusing-ssd-mobilenetv2-using-tensorflow-api-can-detect-anysingle-class-from-31a31bbd0691
-5. https://medium.com/dataseries/understanding-the-mathsbehind-neural-networks-108a4ad4d4db
-6. https://purnasaigudikandula.medium.com/a-beginner-intro-toneural-networks-543267bda3c8
-7. https://youtu.be/HbP_D_MctCM
+# REFERENCES
+
+https://tensorflow-object-detection-apitutorial.readthedocs.io/en/latest/
+https://www.tensorflow.org/lite/examples/object_detection/overview
+https://towardsdatascience.com/custom-object-detectionusing-tensorflow-from-scratch-e61da2e10087
+https://medium.com/@techmayank2000/object-detectionusing-ssd-mobilenetv2-using-tensorflow-api-can-detect-anysingle-class-from-31a31bbd0691
+https://medium.com/dataseries/understanding-the-mathsbehind-neural-networks-108a4ad4d4db
+https://purnasaigudikandula.medium.com/a-beginner-intro-toneural-networks-543267bda3c8
+https://youtu.be/HbP_D_MctCM
